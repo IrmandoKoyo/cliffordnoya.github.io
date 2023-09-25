@@ -1,0 +1,33 @@
+body
+{
+    background-image: url(c.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+}
+
+h1
+{
+    color: bisque;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table
+{
+    width: auto;
+    height: auto;
+    border: 2px solid rgb(63, 14, 14);
+    padding: 10px;
+}
+
+p 
+{
+    color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+tr
+{
+    color: aquamarine;
+}
